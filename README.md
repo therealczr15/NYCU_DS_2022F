@@ -1,4 +1,4 @@
-# NYCU Data Structure Fall 2022
+# Fall 2022 NYCU Data Structure 
 
 ## Course Information
 - Title : Data Structure (DS)
