@@ -2,7 +2,7 @@
 
 ## Course Information
 - Title : Data Structure (DS)
-- Semester : Fall 2024
+- Semester : Fall 2022
 - Professor : Po-Lung, Tien
 
 ## Score
